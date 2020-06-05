@@ -60,7 +60,6 @@
     "jest": "25.2.4",
     "@types/jest": "25.1.4",
     "ts-jest": "25.2.1",
-    "cypress": "3.8.3",
     "@nrwl/cypress": "9.2.1",
     "@angular/language-service": "9.1.0",
     "http-server": "0.12.1",
